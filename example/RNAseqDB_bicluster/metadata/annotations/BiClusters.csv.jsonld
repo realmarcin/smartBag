@@ -1,0 +1,42 @@
+{
+  "@context": {
+    "ncbigene" : "http://identifiers.org/ncbigene/",
+    "uberon"   : "http://identifiers.org/uberon/",
+    "doid"     : "http://identifiers.org/doid/",
+    "ncit"     : "http://identifiers.org/ncit/",
+    "index" : {
+    },
+    "gene"     : {
+      "@type" : "ncbigene:",
+      "@id"   : "ncbigene:"
+    },
+    "score"     : {
+    },
+    "mean"     : {
+    },
+    "correlation"     : {
+    },
+    "column_enrich"     : {
+    },
+    "column_enrich_MONDO"     : {
+    },
+    "column_enrich_UBERON"     : {
+      "@type" : "uberon:",
+      "@id"   : "uberon:"
+    },
+    "column_enrich_DOID"     : {
+      "@type" : "doid:",
+      "@id"   : "doid:"
+    },
+    "column_enrich_NCIT"     : {
+      "@type" : "ncit:",
+      "@id"   : "ncit:"
+    },
+    "column_extids"     : {
+    },
+    "column_ids"     : {
+    },
+    "row_ids"     : {
+    }
+  }
+}
