@@ -31,12 +31,6 @@
     "column_enrich_NCIT"     : {
       "@type" : "ncit:",
       "@id"   : "ncit:"
-    },
-    "column_extids"     : {
-    },
-    "column_ids"     : {
-    },
-    "row_ids"     : {
     }
   }
 }
