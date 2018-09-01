@@ -4,7 +4,7 @@
     "uberon"   : "http://identifiers.org/uberon/",
     "doid"     : "http://identifiers.org/doid/",
     "ncit"     : "http://identifiers.org/ncit/",
-    "index" : {
+    "rank" : {
     },
     "gene"     : {
       "@type" : "ncbigene:",

@@ -1,2 +1,4 @@
-#rank,gene,score,mean,correlation,column_enrich,column_enrich_MONDO,column_enrich_UBERON,column_enrich_DOID,column_enrich_NCIT
-"1",PHGR1,"0.997065882","1876.863826","0.984250464",UBERON:0001157,"",UBERON:0001157,"",""
+# Fields:
+# rank,gene,score,mean,correlation,column_enrich,column_enrich_MONDO,column_enrich_UBERON,column_enrich_DOID,column_enrich_NCIT
+#
+1,PHGR1,0.997065882,1876.863826,0.984250464,UBERON:0001157,,UBERON:0001157,,
