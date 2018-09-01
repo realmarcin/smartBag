@@ -1,0 +1,21 @@
+{
+  "swagger" : {
+    "swagger": "2.0",
+    "info": {
+      "title": "RNAseqDB bicluster API",
+      "description": "A Programmatically Generated OpenAPI 2.0 smartAPI for Massive Associative K-biclustering (MAK) biclsuters from RNAseqDB human gene expression data.",
+      "contact": {
+        "responsibleOrganization": "lbl.gov",
+        "responsibleDeveloper": "MJoachimiak@lbl.gov",
+        "email": "MJoachimiak@lbl.gov",
+        "url": "www.lbl.gov"
+      },
+      "termsOfService": "http://x.org/terms",
+      "version": "0.0.1"
+    },
+    "schemes": [
+      "http",
+      "https"
+    ]
+  }
+}
